@@ -42,13 +42,13 @@ This Android mobile game app of a typical Tic Tac Toe game was developed for an 
 
 <h2 align="left">Images</h1>
 
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-09-at-20.42.33.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-09-at-20.43.31.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-09-at-20.43.58.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-09-at-20.44.13.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-09-at-20.45.14.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-10-at-15.25.42.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-10-at-15.30.51.jpeg" width="100px" height="67px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-09-at-20.42.33.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-09-at-20.43.31.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-09-at-20.43.58.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-09-at-20.44.13.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-09-at-20.45.14.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-10-at-15.25.42.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-05-10-at-15.30.51.jpeg" width="100%"/>
 <br></br>
 <h2 align="left">Getting Started</h1>
 
