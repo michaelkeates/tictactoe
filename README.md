@@ -2,25 +2,7 @@
   <img src="https://repository-images.githubusercontent.com/649663574/0acd3410-5806-467c-9fc7-12ce53da5246" width="512px"/>
 </p>
 <h1 align="center">Tic Tac Toe Game</h1>
-<p align="center">
 
-<a href="http://unlicense.org/">
-<img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense">
-</a>
-
-<a href="https://github.com/michaelkeates/tictactoe/issues">
-<img src="https://img.shields.io/github/issues/michaelkeates/tictactoe.svg" alt="Issues">
-</a>
-
-<a href="https://github.com/michaelkeates/tictactoe/fork">
-<img src="https://img.shields.io/github/forks/michaelkeates/tictactoe.svg" alt="Forks">
-</a>
-
-<a href="https://github.com/michaelkeates/tictactoe">
-<img src="https://img.shields.io/github/stars/michaelkeates/tictactoe.svg" alt="Stars">
-</a>
-
-</p>
 Tic Tac Toe Android mobile game developed using Kotlin
 <br></br>
 <br></br>
